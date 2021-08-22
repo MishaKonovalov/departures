@@ -1,6 +1,6 @@
 .carousel {
   display: flex;
   justify-content: center;
-  margin-bottom: 350px !important;
+  /* margin-bottom: 350px !important; */
   overflow-x: auto;
 }
