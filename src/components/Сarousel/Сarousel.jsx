@@ -15,6 +15,15 @@ function Carousel(params) {
       <div className='carousel-item'>
         <img src={imgOne} alt="" />
       </div>
+      <div className='carousel-item'>
+        <img src={imgOne} alt="" />
+      </div>
+      <div className='carousel-item'>
+        <img src={imgOne} alt="" />
+      </div>
+      <div className='carousel-item'>
+        <img src={imgOne} alt="" />
+      </div>
     </div>
   )
 }
