@@ -1,3 +1,15 @@
+# Одна из выполненых мной тестовых работ
+Приложение использует API skyscanner для поиска авиабилетов в текущем месяце.
+Задание получать билеты из Москвы(Шереметьево) в Нью-Йорк(John F. Kennedy International Airport)
+Некоторые данные забиты вручную из-за отсутствия их в api.
+Дизайн ориентирован на мобильные устройства.
+Стэк: React, Redux, Redux-Saga, React-Router.
+
+
+Посмотреть результат можно по ссылке
+https://ticket-finder1.web.app/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
